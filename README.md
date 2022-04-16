@@ -13,13 +13,13 @@
 
   </a>
   
-  <a href="https://github.com/TroJanzHEX/Unlimited-Filter-Bot/fork">
+  <a href="https://github.com/Janemankomat">
     <img src="https://img.shields.io/github/forks/TroJanzHEX/Unlimited-Filter-Bot?label=Fork&style=social">
 
   </a>  
 </p>
 
-[![TroJanz](https://img.shields.io/badge/TroJanzHEX-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/TroJanzHEX)  
+[![TroJanz](https://img.shields.io/badge/TroJanzHEX-Channel-orange?style=for-the-badge&logo=telegram)](https://(.https://github.com/Janemankomat)  
 ㅤㅤㅤㅤㅤㅤㅤ  
 [![TroJanz](https://img.shields.io/badge/TroJanzHEX-Support-red?style=flat&logo=telegram)](https://telegram.dog/TroJanzSupport)  [![TroJanz](https://img.shields.io/badge/TroJanzHEX-Website-red?style=flat&logo=CodersRank)](https://TroJanzHEX.me)  
 ㅤㅤㅤㅤㅤㅤㅤ  
