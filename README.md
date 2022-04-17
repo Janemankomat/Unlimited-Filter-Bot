@@ -13,7 +13,7 @@
 
   </a>
   
-  <a href="https://github.com/Janemankomat">
+  <a href="https://github.com/Janemankomat/Unlimited-Filter-Bot">
     <img src="https://img.shields.io/github/forks/TroJanzHEX/Unlimited-Filter-Bot?label=Fork&style=social">
 
   </a>  
